@@ -1,6 +1,6 @@
 # 🍽 GS Witchen - Sistema de Gestão de Restaurante
 
-[Assista ao Pitch 🎥](https://www.youtube.com/watch?v=8fjv8DE_ems) | [Aplicação em Nuvem 🌐](http://witchenapp-java.azurewebsites.net/) | [Assista A Solução](https://youtu.be/bHdYfySNo0s)
+[Assista ao Pitch 🎥](https://www.youtube.com/watch?v=8fjv8DE_ems) | [Aplicação em Nuvem 🌐](http://witchenapp-java.azurewebsites.net/) | [Assista A Solução](https://youtu.be/IfVl1jmwyD8)
 
 ---
 
@@ -110,7 +110,7 @@ O sistema está publicado no Azure App Service, com deploy contínuo via GitHub 
 
 ## 🔹 Vídeo da Solução
 
-- [Assista A Solução](https://youtu.be/bHdYfySNo0s)
+-  [Assista A Solução](https://youtu.be/IfVl1jmwyD8)
 
 --- 
 
@@ -157,4 +157,5 @@ Marcar pedidos como prontos.
 - Configure corretamente SQL Server e variáveis de ambiente para execução local.
 
 - O código fonte está no GitHub: [GS Witchen - Código Fonte](https://github.com/Yoshida672/Witchen-Java)
+
 
